@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me yuvraj[atel830@gmail.com
+- 📫 How to reach me yuvrajpatel830@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: i just love to focuse on one thing badely
 
