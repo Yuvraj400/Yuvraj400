@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Yuvraj400
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on project
+- 👀 I’m interested in Creating Things to solve problem
+- 🌱 I’m currently learning
+- 💞️ I’m ready to collaborate
 - 📫 How to reach me yuvrajpatel830@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: i just love to focuse on one thing badely
+- ⚡ Fun fact: i just love to doing work
 
 <!---
 Yuvraj400/Yuvraj400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
