@@ -35,7 +35,7 @@
 |----------|--------------|------|
 | 🧠 **AI Assistant** | A smart assistant built using Python & ML | Python, OpenAI API |
 | 🌐 **Full-Stack Web App** | MERN-based app for productivity | React, Node.js, MongoDB |
-| 🎮 **Game Project** | A fun endless runner game with Unity ads | Unity, C# |
+
 
 ---
 
