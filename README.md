@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 👀 I love **creating things that solve real-world problems**
-- 🌱 Currently learning **AI/ML and Full-Stack Development**
+- 🌱 Learn **AI/ML and Full-Stack Development** and learning something new
 - 💞️ Open to collaborate on **exciting projects & startups**
 - 📫 Reach me at **[yuvrajpatel830@gmail.com](mailto:yuvrajpatel830@gmail.com)**
 - ⚡ Fun fact: I just love **doing the work — not talking about it 😄**
